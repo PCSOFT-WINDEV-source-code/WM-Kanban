@@ -1,0 +1,387 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_KANBAN_MOBILE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_KANBAN_MOBILE
+ identifier : 0x2389ec770cfcdd73
+ internal_properties : CAAAAAgAAAA+F/fsFIY8lPYweWHZyoBSEUBwTyYYypYDuexduoBXd8p+zE2QgCg5zddtTvxqSVUGJ2FdftatqFL4Wh12c8P4/3AmW0WIVKDBkDG6KgEf1zRTLuisc4au8CfpBGWMaP9X4Q2p+raxD4UHGQjeqKogcAlLQj4hHG+i4lCpMgF6htRE7s1de93Hab2mB6tf1necrhsWPwdobPgvc2HGyHk1lWuyMbMN1t5mzyEX4eabGPk5yxQHF+JbAKpRv94jU/VdgsXs90/noMhhGISfBMjVH3ANZ5fk2jmnpbPW10NsTYMzeO5SVxOaG2PBFQDGRYhhfD4oxROLjrQjiLw4lbAjPi4K9L86XqL/uplb8CdwZUmkbtyWjOfYXRag2oJSPK2ihL2YaqFS6DQHwIqKhtPaMKyOGkj6Fg0ejDj/vh5xMZJqovtld+ufo0XbC980zwMULbNlbb9PsTxY1b2ZQUpw2VMpjZBF+HQvgVoSXNIsvVddydSlCaSMoH7aBj4TQvfTF2UOS3GK06ZADkGawoAsilzShHoKIzsUpKiXpnRj58gJLVOHhi/bQLKeb/Spf5ZrmViHqQiLIk4SMBZvGatrx1p+mWEdnNWSAjFE5MxXSMHGo4AmmDCXyis8IhwyXamATL1v3eqBrVMMLsm5tLCba+9S76X+JrxFJXcngLKt3/MdQ/kaX3f13zzSZo2EV+JnQ/dy9gtRI4uZuWI7bV4YUX4ltxkDHskgJ5VHq9pvxveLsOx+Lo+jic1jkybi1R3f28klr/V1k4ewrVcQvgvQWI7ZttlBDOrqrLkTm+zAVjV2r4I5ZQo53DQ=
+ properties :
+  width : 360
+  height : 569
+  heightMin : 650
+ controls :
+  -
+    name : KANBAN_TASKS
+    identifier : 0x2389ec770d01dd83
+    internal_properties : CAAAAAgAAACgMKcWTLci7LIP9MC6C6pytMTvlTB/KZ+pl4Zq1046gOFS23VYgrK6HCD8NyXuVomSw3FBQT/s4LyJCpAvSAW8NcXUSRiCJGdg7EHivPBzmyUkq3KC44NCUupyTUiRBgqfNwfOH93tLjd+pvGjUO4BnxXDLgvAdriKaR/+fNULIg+30ZT+H8vUSHOgdL9KnAoP12K9jfRi3re7CIS2hUebfV7gpTDhs5xPM7adR7hdbiL7acuqKxLJ5/dWqUOXkhsvUpl3KVy9pgce/87XbczHMOYiS/85i1TOvOhmys6XUMZaemyetm99gC74CkwSe78wawi8t12DIL5avXUOsk4ag4ll5QF2mv9raRAUChM/1RUgP4RzikNbMI+WM1/TWR7e2IlAhcLlM9ZasRThKzMlFF5uyGQp8hNMJBYfgq6KxNwMPoodwEvrGGzWp7Oi5EsL4Hg68engG+uexRMX4q4pTFQrh9pO4Z5gKMYRofVkGOFG4gFJ8K1tRZ9JD6vtUnXCzexqp4SzXorcGgdC7vuE9u9ag2A9CkW4wz77oGyhALbXwDKIV71JZ9gbl8W+iwlJiJ/6x5J2t/w1RiOu2xSy4gPE+bVyitb+wZZ12/OM1AtZt0ULWC4paUl/aObzBFh/4J4q4+vcejhC7GEE0Bt/FQ2xkzj0HuVcVzFRPZM0UaIdmLlrp6a+j9oZY79MXG6yGTu5iVNbFB9IykKlW5WFdlvT9dbgdjiw6pzGXaKETjFMRZ22uK5Z2NlDobXStvgqEqG5tZweBV3xrSNehUf4h/9c8O/BNZTDPqhcnQL/C5DyrylYYVHvD232Aga11lkQUN7xkHebhGU+kbVzyT/4I2dxDQgy1SfxE3F/8WZVKTLt+0j2+cU2Ok9C4jiiEQX+ScvG/Y8EtqAH5nlBT9KinkR6aaCTl/U00XJAYmEi3vzWAYOq6q68UeD4aH7uVx8DYWsxYa009drmVI9+oAIWoPoVVW8qYKrawrnVKXNdHj/QuBY11ymzTfxDUBC4oO1Pg1uCo5QOL9iqgOcpIE50P5PmcT16pB5NSMeHcYieGb2/7L3ohibkLov3tDuLuH4RkR0iLs3w72gAWR0P+1WlnmP8ZGfIl2VQieQVZLjeykXkSimKta6zzPpZkMhN/gdM1SwWcNpBENEWPhAcRM5oGhzvPRLd7uK1RVl/3ASF6gb3O3atW6G/4bbgIu22Bx1BEcADOc+7tTUFw07elHT3PX2xscRloXYX6TrKxSPHqVXRsW8BZbMiUFKTweqm4k6hZC/QPwSepkp6tnwm+ws8TJqeHEQA6WN3481Pg0iEDY7nP8JiR4IYkpR/AoPJadJaDFqn5aPBbFC3aOODdC1H5jTzfRDNnf9406syEJdEYIxQkDLuJopU5aFlZJ3DPNXHeWhavo+m7tgh1f+dyWHLck+WSiYjG22zdT0s4oAtrm+xkqDeV16G0lfrokDyU+r8IOTvg79jc2+9C0VaPfsZo33IkALzifV92lzsJ7qkAHufDAVT7TWMDbVI6+Gga+9FDDo4ZFdCWGsbAnIX82w0Azb4yMSWMzhViu2cCmjgs15ivsWHMayb5TtX9Ljqip4wIBis0Hs4WA0y/NyZ2cHCgOjuZHQEpJ+zN2zghICtBcge6mpEFdtlpPazsyl8btNVkQ==
+    properties :
+     y : 8
+     width : 359
+     height : 553
+    lists :
+     -
+       name : LIST_PENDING
+       identifier : 0x2389ec770d02dd83
+       internal_properties : CAAAAAgAAAAOTXnj9oZbuYSyTWT/N+aluDY2PRa8mtID4+EBabufSgtyLfxrK90jRV/Rs98dagGcigOuaeWJ0EZhjwuh7/ekMP7OMS6KOlOe3qi9ld2aa0NwPlZV4Yz4ePXi0s1BoWG73bcCUtc79lOO+8DS7lRZBGJLyrKhIwIYV5wU2MdpI0Qn8t5sy8whaxGkROPNSKio9hKERBXEBBucpoC7hyAKXa+QN3TKhMqvPGJ/K/RQ1yjO46GmI3teTrSdIW5BXihY9T4L6OWHhg==
+     -
+       name : LIST_INPROGRESS
+       identifier : 0x2389ec770d03dd83
+       internal_properties : CAAAAAgAAABXnuzpTTZUCI2MivPSXuwXm+JgCqB823ZFmBEY1l9uE4/NwBVpihgfTHYNu1ROcPBRm5akDJ79GLRANuLPh4ar33R45JOaKg+C+2WJNzOeVk1acsZEYS7ASaKl2UH0H7rXeO3tDW42TIu5bQsVTEdDGM0temAYV3DAQHrJbwARuA9tZwl09Rnmdv7ZAG8HGACymoYCAazRld3+6jvUezvS5RSOeJR4MuwjBVLQt7blVdN21yRf5RWX5QIs8GfpSR2uKvSsPZ0Cxn49xnTWguLCUw==
+     -
+       name : LIST_DONE
+       identifier : 0x2389ec770d04dd83
+       internal_properties : CAAAAAgAAABw7RJwDeCDQfEgY98Wrpx6LEoixss+sTvwkSryksqBL0Qt2/U/OZl1vTCSAuBba5JucG+AGqmdlWtBHwH4QKIUwARwR3BChzluJT7KZFjRhdgWx0Iq5PzDC2QI+IwZsqnBArXphOFSttgNONdM5vgEpRs5flSj8Uq50ZIN0fs2WN3cgVXVMZHY+QofHV/9m6SZQmFK9Ck3QiDmSLNzIcgPtIbbi8Hv4pwradgUaMAA+Mp+k4gKXGndFuu7Sipyjg8n3GUC
+    type : 140
+    controls : []
+    code_elements :
+     type_code : 166
+     p_codes :
+      -
+        code : |1-
+         
+         global
+         Modified is boolean = False
+        type : 14
+      -
+        code : |1+
+         procedure DébutDéplacement(sourceCard is kbCard)
+        type : 318
+      -
+        code : |1+
+         procedure DéplacementCarte(sourceCard is kbCard, targetList is Control, targetIndex is int)
+        type : 319
+      -
+        code : |1-
+         procedure FinDeplacement(targetCard is kbCard, sourceList is champ, sourceIndex is int)
+         Modified = True
+        type : 320
+      -
+        internal_properties : CAAAAAgAAACdV0jCK5WvgmU247wIs7bPzQdWoB57D98dPMcK7HEp8bd66HztFsVttnVT6iiW+yRtWHi4xj4z57NiaVoLpWGBiLxlkAxdBUeV3wvB6a+bZ4as9TSVkC9Ohe2m0dI2hq3MVKhWERUD6e7AYTo=
+        code : |1-
+         // Called before deleting the card from the control
+         procedure SuppressionCarte(Card is kbCard)
+         //  If data binding is not used, this code indicates the delete operation to the data source
+         //  If necessary, prevents the deletion (RETURN False) 
+         Modified = True
+        type : 321
+      -
+        internal_properties : CAAAAAgAAACth7jy82XvssVGk2zI82bPDUemsJ6bHx8tnGcK/OHJIefKCLx9ZkUd9oVjeoi2awRtmGjoBh4rzysagTLDjWmJwERdiOTF3a+NF8PZIXdDT140raztOGd2/YXeiape7tUkfEDu6T1bGd7wEUo=
+        code : |1-
+         // Called before adding the card in the control
+         procedure AjoutCarte(Card is kbCard, targetList is Control)
+         //  If data binding is not used, this code indicates the add operation to the data source
+         //  If necessary, prevents the add operation in the control (RETURN False) 
+         Modified = True
+        type : 322
+      -
+        code : |1-
+         procedure DétailCarte( Card is kbCard )
+         
+         oList is Control <- KANBAN_TASKS.Liste[ KANBAN_TASKS.ListIndex(Card.ListName) ]
+         WIN_KBCARD_MOBILE.OpenMobileWindow(oList, Card, False)
+        type : 323
+  -
+    name : IMG_BLUE
+    identifier : 0x2389ec770d05dd83
+    internal_properties : CAAAAAgAAAAGspj56sT178VqtBmPObS8kSoL2FOYDLxWj80sFSHchl4QoQ7q6K/GxYu81lfel5NQ8BM9ILmCcLcfNPp8Xau4NG9tgUJHG9rl5N8T2GZYzrUr1tZWZsE1+7rqU3O4ix3TEVDEJJBPk7QjoAevZKbfibd/6u+QJIYcPHYQuygwAslMBzozORAYSXIVrTRwR0z6q+LTZbTp7lQla15gyXsl9MHKMeDmhVvPrKHC13k6/rVxgZ1I0uY7+QQ5iK5omsznronTu1T6s3a3V/tfD5zWgobXNeBu5Qk2gSCeYOLuYVmeriRZmbkEmKJuRUDxB41syfPJBpzrErWIoHs7ILsoMITSCZT1Q0PBCFz35Ow4dPaIUxtPTad4F3CBHdfY2GQiXBhD+IV/j5cY9rFKiD7uPlsQw6zTNKsEnymWaWraZRyZjVYpvF+XAMw8b6syLxyuD58GlQst3g1fZQhtQGZblsIOwl3N796lCZue0NUGPOFl8mRuKcV13w4sTA+m26AknjGsRZqeG17sdktcGVQ1FNcOi42A1GneKjbDyDog5WkwKXqUiXaLXIPExSgBp7X01PrPXGwi5iVHgNg97ujlB/pIk1Bu5nMA4iLgXKN62RMPfzLDv6BO/8h51Iykwwbc9GL257JFnXd82GtF8wuWl/FYoz1LIaRxxjBBNCDAfxZZR2RYbffu7KS7etd0rNl2mI37aERJzI9vzOu1PdUK3mWYUTUFiaowFl/XiD70ovnsbAjy9CgpTUmK5pERgKxzaNAyW70Do/1qqdKlRzsFz0prplLJafz0c4J7jsOZPOwLAw==
+    properties :
+     x : 52
+     y : -109
+     width : 23
+     height : 23
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_GREEN
+    identifier : 0x2389ec770d06dd83
+    internal_properties : CAAAAAgAAACVKywBkYWp+cPBG2svhLHCRgEdn0OJf9UqUVODd/PgbON654T5IpgtsFXdUOiX64dJDq3irHL9uqrX9I83C3zQtqkDoYSwTTvKx0/H+B2uEfPWjdsdoFNREJSYdTdl5/FvGYUR+arhJz2E+GNHnAvwCoNf1aBHfIACosSginIg1dQ6fe1xUHMW0Xpk53mfTG2myVN57ZFTYb8aozocCGOB2yeBsFjap1qxK0KizQlk4//UzkSyUlKtS5FCwzL1J64wkc6g/kF5p2HQAWQG6DJ79jHpb1JTtXVf6M4ZhT4c4tKKSj254J/TCBZ0Q/YjxiKeGwssXS1sY6oj1nQa6XDWb4EHjQBX6aXaGxT+8zPtpQg0zOBdTX2+UFOGPmm8zFVC6FHnjVO9mHyk11zEKVOHDR3wcLP5ArBY4X1wJ3+6nvaOCegkYKHeUNYI05uOl6G6P7JXH4ZP/EHWFmEhR3QpZwUo6gTXWDVqo+eC94H9gKqBS4fm9j0ZyohoVHwgJMqvK4OYDJDrAm96tDUxd1HbFT5KjHivccivHF73/xLlm1wVu6xNk99eyQcaowW3rutLFUyzo7H5bTY6kjfzQegBejcsVrGFxmgoT9+WesltE4O+oF3fpP0F/DIqv/u73pZ5dQ//nDoBu7hsRgBWDdp2e47I54+lF+EfxEEOpiT8ZK1Xls9C4bUvG9/2fqIGkR1UQJknlvAhvlz1J3PoEc4zlff42pExc6L5USImG0IPMCYH2mrwGbo/bSaDIwWSsMkKRwA44Dp2nipeUi0Yz/LB+VWzTHtPIUFByC0WCrTcxkBCgGc=
+    properties :
+     x : 26
+     y : -109
+     width : 23
+     height : 23
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+  -
+    name : IMG_RED
+    identifier : 0x2389ec770d07dd83
+    internal_properties : CAAAAAgAAAB6DMQKGNeq+a6Nci2b681U1K75YfAh92yFJUhofWk961KE+tmhsMn5R3/yw7TgeAFM6iThZUFT/W6zJnsHeNnODWo5fgYADG7mm9oET5qVZRxC+Z+oY0KOFW5BqoYkrfnOC2kizydblMdT/MgTym5oVShNsWaFRQ3y8Ob93xrVBzgen8GnlRPD6iexmDdXtHhVnEf471xJapQ2HDx1so+R783DfYMcZ2c8RxDncXQRLPGVo0K+pZSs/nJS8/1iQxx2wW558jx1QzCylAn8ifbmvFoNxuKENWEg5qZbJ/+sH522QIMTM1QvMuJz4JdhKkW4b3wRbv+jZRY98zGIpaGwXsJGtuJrtBzAooAqs7x9ln0mwEdZS7L6kSVpWNOVQyKD1qYRir/9fPOptoXc+JhfYtWKVmJKCdn08z9AEv5SMwRYQeav0PsMH2GXhW0rY6pbqVJJcYYEnpip+wLzoZJ2uLkJlik14hzwy3xWT8jPJDor1YDXFONu+d56ci3KGUZboqeMsPU6MXzaHgYbo210O/PncPkp8pMKkSbgykyH5bgll4FhV9DlQbE2X+mRnKqjKdPJymIZQCzk2mDsqFJhjP2BDDsrsDfd0HoEMWWNyms1y9OMNZNScByZE2yJArcUfvQ/GKxjiqLGRDztr6nsfobBB+nyIVkvVSfJC5haAQDKKL+//HAa4AXITQIH2beqbPm7Sxe+Vx6yTiOEXTZs+UdfUsIGgt9QuUxMNVhSTjB3VP2/8eFx8OTF3N75PTdiAPGVPRCBzv/+qO6Ybd8vWlPPsaYwIL3AMxpTkgcV1g==
+    properties :
+     y : -109
+     width : 23
+     height : 23
+    type : 8
+    code_elements :
+     type_code : 8
+     p_codes : []
+ actionbar :
+  name : ACTB_ACTIONBAR
+  identifier : 0x2389ec770d0cdd83
+  internal_properties : CAAAAAgAAAA20qAQhP+kCMRLd0YIn4xzz56pmAgfTaOmv5y5n8Xxydj/ZEAOz5dexr2TWOQrLkJdRnwJSxY2wh5Ti0fXRGdoF1bkLB7ZvxL85AX371QSFMWDzsB5rujOT/X5F1pZf+hi+QDa7DX858ltuWFDNROcVbR9eun1fvpFZG6NAMLxlJl/zZMSCkmeewl60ZyvJNBqQeryy9nMTQ3rTW1GNrsi6KI+CZx669wqHSXzOyoeEGcuAKuP7SeanTUDvmT/p7gWUmO32Qc3lVYMnyqQ22ftGZdU2lvh9tMZL7W67KCezeht31fPSaWvBUITtrP9ChrtqH5rkgH2wCTGnt6wRZlfta2smnH7U6N4HjhZ5xp8M0H++9ojyPY809YAC9jd20Ygh2Gc88OXoUkX5zQwwF/2P5ObrA==
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x2389ec770d08dd83
+  internal_properties : CAAAAAgAAABgnX2b44ip/0+dFkWIcZ3UJFlESy3OUB3wO5Qm7mevlCLdFjCyI3JIggvqH19+MvzHpl9/B9J9tS7hT0oozBulWlov7UR66HEvpEvUw0z5rDRS1Z7p+wdNt679Grta9dZiBX0QSlauiZBtVH4BhImVfjGzfJgEI7yrxVvlYeLl50T0XcrIZxSl3b5vn/iegCKem1+ATnY7gt3YKrGh4GHDZFJS1W9LBtSrZXsi5NcyuGwhXbRv+FFskVwtnOB5ewrO+zjW5Xy2Z8nvDGliFs99N2Xxj/PQbd/Pt/ta38g=
+  options :
+   -
+     name : OPT_NEW
+     identifier : 0x2389ec770d09dd83
+     internal_properties : CAAAAAgAAACQDgRGuJV16gTB8ivAMOd2Roc87nzDB3IS4gIcoLXY/uwAURt1KefAh5ddhpSJvF/9GxBhSyrmZrnQJi9DgCznOQIiihJP43Qrsao6hyuGRgK/bmdiJRXCbKhYsN6TyXiGP63zsEuNaCE7sg32NH04RDlNibbBYo/PV8cIZQcHjL86lpNxj37fRIMmDADsi18TtnFG5LW7xyMHvTgXi5fKjERTmQE8GHe7xC705GPDUU/agMdeffjjU+5WjwVgydP/B3oc1DAW/qMq3ruzE+HwxYozu6vcgYk9rtk+plww4ulVP7Yv+dowMto=
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         internal_properties : CAAAAAgAAABl/LvdRmqVLdDZ6i92CQwDb59iaNu59UyNLmyNXYsmLIdZuXaZL3QgAuDCzjmX/Rc/gNBJFgnK760YGDwr1JiA/mhusiHozQY95kAB8QdaEMr3nsINq1x3ac7agh/BWOD8hif4F2l44UHzVHnJTGJY8Y9zlaixMhIPiJidsiFWaPCo9hM0i0ykwP/xAeC/Csk=
+         code : |1+
+          
+          
+          // If the current Kanban has not been saved
+          if KanbanFile.Value = "" then
+          	
+          	// If the current Kanban has been modified
+          	if KANBAN_TASKS.Modified = True then
+          		
+          		if not ( LIST_PENDING.Card.Empty _and_ LIST_INPROGRESS.Card.Empty _and_ LIST_DONE.Card.Empty ) then
+          			
+          			// Requests save confirmation
+          			switch Confirm(Cancel, "Some changes have not been saved. Save Kanban now?")
+          			
+          				// Saves
+          				case Yes
+          					
+          					// If unable to save, cancel
+          					OPT_SAVE.ExecuteProcess(trtMenuOption)
+          					
+          				// Cancels
+          				case Cancel
+          					SetFocusAndReturnToUserInput()
+          					
+          				// Continues
+          				case No
+          			end
+          		end
+          		
+          	end
+          end
+          
+          // Deletes all cards
+          KANBAN_TASKS.DeleteAllCard()
+          
+          // Reset
+          KANBAN_TASKS.Modified = False
+          KanbanFile.Reset()
+         type : 32
+   -
+     name : OPT_OPEN
+     identifier : 0x2389ec770d0add83
+     internal_properties : CAAAAAgAAAAKYFSkRI/ltuYudZ/a09M48S6XkKIwSa91iLPBaOxSHYtSMdbFzsIlgSrWDQtqGzpK6J0Bf/c0wDlci390gwcOzT3QfpGyyDWNHEWc9Miayhc1AxNhVw5y4TgWdfsfa8/6EiIcnvPfZtXsnP7bteXyxSPjjMFTq+56tRqdaqy1KhLvS9mVVeRBjtkeHQsvuJk0q41vvC9ZSY42pswsy8glup5kQsTI/hx2wUGJFq46GFkddKTXdikpk4fXS8kEW+TH+0gBhNEDUtCsYvy93H88SFD9n/qPlyFwXEYGd44Hvza95KJ84YfIacNL
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         internal_properties : CAAAAAgAAADUUDW1FVADYhiJlPrlJU7uWnIAtlZlBzfUYx0PQYE7a+x/JsKEgXRcgJiE1FwPtw71G4zL4nauTPaR4SnauQZda38vCcInb8qnt4Q0OPDOuZszgZYie81kAe5Ftv0M3BW5+9oVQgM6wgg7yGzDa6h32sBsVI3fwHViOyJV6vI0N3IC1rNeNR7ANG5UEm43Mu4hNxB/ImCgsYhuUnBjhvdUUvgomKuIntmDTiI+D/6Xy8R/1RurMA==
+         code : |1+
+          
+          URISelect( procedure( bSuccess is boolean, File is URI){
+          	
+          	if bSuccess then
+          		
+          		// Start on a blank Kanban
+          		OPT_NEW.ExecuteProcess(trtMenuOption)
+          		
+          		// Stores
+          		KanbanFile = File
+          		
+          		// Loads and deserializes
+          		URIToBuffer( KanbanFile, procedure( bResult is boolean, bufKanban is buffer, sFormat is string) {
+          			
+          			when exception in
+          				
+          				jsKanbanDescription	is JSON = bufKanban
+          				
+          				if jsKanbanDescription["ListPending"]..Exist then
+          					// Add the cards in the Kanban
+          					for each jsCard of jsKanbanDescription["ListPending"]
+          						LIST_PENDING.AddCard(JSONTokbCard( jsCard ))
+          					end
+          				end
+          				
+          				if jsKanbanDescription["ListInProgress"]..Exist then
+          					// Add the cards in the Kanban
+          					for each jsCard of jsKanbanDescription["ListInProgress"]
+          						LIST_INPROGRESS.AddCard(JSONTokbCard( jsCard ))
+          					end
+          				end
+          				
+          				if jsKanbanDescription["ListDone"]..Exist then
+          					// Add the cards in the Kanban
+          					for each jsCard of jsKanbanDescription["ListDone"]
+          						LIST_DONE.AddCard(JSONTokbCard( jsCard ))
+          					end
+          				end
+          				
+          			do
+          				Error("The kanban could not be loaded with the stored data")
+          				return
+          			end
+          			
+          		} )
+          		
+          	end
+          	
+          } )
+         type : 32
+   -
+     name : OPT_SAVE
+     identifier : 0x2389ec770d0bdd83
+     internal_properties : CAAAAAgAAAAsgJzn9e7QCAdGNU1v43R0iGr1itUxXQoI0NUSk2mofngQpNtNcUb1FHfOOEq/uFEnjo067N5EtAuU92dvQiG655C6eIqdzs812H0BVCDzGzzmnwMj/1Rd8aZ10BMJmkNl5Wm5WyPYp8nSPnVMhDy1errQmDUTmWns6ijKNaDYCsnIcLYWFC31W9jd+TEOxFMDm1dgAraZvkdzXJ16MDjzvsDIT/oHke7qlBJeE1N5v80MaOLH/LmsVLD5sKvYu+QqZ5AIjFk0nHZlXKW55vVyzPn0RuzMqLAImsKvVswD1UAFvrpTG/B3I8swdmz7GY29EU9iL07ESWo9PubRFJKLd6JMRJ/i/vDoRA==
+     code_elements :
+      type_code : 26
+      p_codes :
+       -
+         internal_properties : CAAAAAgAAAB9NXbCgrHiH0ofPJRjXCAwkYPqz9Ochm7byfUZcHpWlGhVsIwBsCNx4P8W2BMClifItxzt4/N5s4GMx3w4M59/fqN0CmuHjzu4kDvLZM6uzXBcrlqGSYu4xhB8YV7CrkhWuXMjb/O5dtdgPnoZ8wgERBluBl5vQfx+HH+BI7DK
+         code : |1+
+          
+          // If the Kanban is empty
+          if LIST_PENDING.Card.Empty _and_ LIST_INPROGRESS.Card.Empty _and_ LIST_DONE.Card.Empty then
+          	
+          	// If on a new Kanban
+          	if KanbanFile.Value = "" then
+          		SetFocusAndReturnToUserInput(KANBAN_TASKS)
+          	end	
+          end
+          
+          // If there is no file
+          if KanbanFile.Value = "" then	
+          	URISelect(Save, "", uriCreate) 	
+          end
+          
+          Save( True, KanbanFile )
+          
+          	INTERNAL PROCEDURE Save( bSuccess is boolean, File is URI )
+          		
+          		// If selected successfully
+          		if bSuccess then
+          			
+          			// Stores 
+          			KanbanFile = File
+          			
+          			jsKanbanDescription is JSON
+          			
+          			for each Card of LIST_PENDING.Card
+          				Add(jsKanbanDescription.ListPending, kbCardToJSON( Card )) 
+          			end
+          			
+          			for each Card of LIST_INPROGRESS.Card
+          				Add(jsKanbanDescription.ListInProgress, kbCardToJSON( Card )) 
+          			end
+          			
+          			for each Card of LIST_DONE.Card
+          				Add(jsKanbanDescription.ListDone, kbCardToJSON( Card )) 
+          			end
+          			
+          			// Serializes and saves to disk
+          			BufferToURI(jsKanbanDescription..JSONFormat, KanbanFile, uriCreate)
+          			
+          		end
+          	end
+          
+         type : 32
+  code_elements :
+   type_code : 26
+   p_codes : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      procedure MyWindow()
+      
+      KanbanDescription is Structure
+      	ListPending			is array of kbCard
+      	ListInProgress		is array of kbCard
+      	ListDone			is array of kbCard
+      end
+      
+      KanbanFile is URI
+   -
+     code : |1-
+      
+      if ScreenType() = teTablet then
+      	KANBAN_TASKS.DisplayMode = displayModeKanbanMultiList
+      end
+     type : 34
+   -
+     code : |1+
+      
+      if MyChildWindow.Name = WIN_KBCARD_MOBILE.Name then
+      	
+      	if MyChildWindow.ReturnedValue = True then
+      		
+      		if WIN_KBCARD_MOBILE.AddMode then
+      			
+      			// Executes the add card process
+      			if KANBAN_TASKS.ExecuteProcess(trtAddKanbanCard, WIN_KBCARD_MOBILE.gCard, WIN_KBCARD_MOBILE.ListCard) = False then
+      				return
+      			end
+      			
+      			// Adds the card in the list
+      			nIndex is int = WIN_KBCARD_MOBILE.ListCard.AjouteCarte( WIN_KBCARD_MOBILE.gCard )
+      			if nIndex > 0 then
+      				
+      				// Set the position on the new card		
+      				WIN_KBCARD_MOBILE.ListCard.PositionListe( WIN_KBCARD_MOBILE.ListCard.Card[ nIndex ] )
+      			end
+      			
+      		else
+      			
+      			KANBAN_TASKS.Modified = True
+      		end
+      	end
+      end
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1374a02a0004e9d6
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

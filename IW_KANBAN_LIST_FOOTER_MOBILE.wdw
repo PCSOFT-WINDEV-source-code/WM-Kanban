@@ -1,0 +1,187 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : IW_KANBAN_LIST_FOOTER_MOBILE
+ major_version : 28
+ minor_version : 0
+ type : 8
+ description : ""
+ subtype : 0
+window :
+ name : IW_KANBAN_LIST_FOOTER_MOBILE
+ identifier : 0x2389ec7b0fb2ee7b
+ internal_properties : CAAAAAgAAAC+AIeA5yLftl1UeeetxSSSQG5yg7C+kG8Og37c2rmSzxamR35TMVdv618oZeV2sf+y6Y/RrUsKzfTTbggYkT4urwUpG67FxSGK0ud+KWaHzlCU9P/OxoPSh1yExXYzG+7mbA0RQHkZTzsl/AQf0cQMSdwu7cdzaLrjraMkEUKPEY9IUcTlTiFyX8ts8U40VEXqKItPFg+JF/KW1cf3omgV+f7U3X+Spcb+PdI7CRIFdRtXCrZI3faHFvcDZq/jd2W2I3zOsboPhN7KoWLjVIxPpuOe2LsWJ1aoeHDpCZAXViruPWriRj58El4P+SMMmR6zAAZdHDDQgYMhKQ+kVlTnSJtCYvlKRTZ3JnGTLPEFUsSCutIwOw5RtjKWDgXxcLVIuJJNEORuI86q0KpjaRDT5GBojzRRsiFIfiDqM/6/ddWm1YUdrDjFZ8bqWRpg0SAaRfpFx7KVbssJpn8aytzBFOi4hhWcAam9xm9ST79bi8nL0/754JSjbYXL7V5XZ4yKBBVwxLan8gsCHz2A92ODa3CLub5oo4pg5POZRrjS1dmqzYRBZvKhOEp7tulk1bzCLFlGGoG3HbGZVuGWdqTHlKjgFXZLThtj1VvNowwy1dd30GTxbwRy1Xzb2YLN40rtZOcXCMbaayi4n9M03SaceqY9jWfTdUgDOqp1tvodJsOTIyxPzux+Qc2hQTwla5q7J9Wzcj8jrqcnNBSwRVIt7yZEd4J8r2lh4xFYBOcVkANiGr58zy/kd6Om8iBvdCIeXYoFDEJWes6fc6GQv77gcU5I/cQHNnXGljiChjN5xC2Y0xvCMC861SeS1vsMoqh4OgN1oODTfarImcWOiJVftUfPnrISFWH/QXAXTdB+RSXhWFXC325Bgmm4TO/d+0hLm6P+o2PL9ba2R/cKh/1Vsmuo/63v/h3mS3bCRbF8F9NakM/g4CM=
+ properties :
+  width : 260
+  height : 44
+ controls :
+  -
+    name : IW_KANBAN_LIST_FOOTER_MOBILE
+    identifier : 0x2389ec7b0fb3ee7b
+    internal_properties : CAAAAAgAAADnPISB3jttdA5XQIv7cHrEvHdinI/rmcBm/bhnwEtK4OLTJV4F3+g1aSCfRZFzoL+HXMBv+TlrYxNZI4QCCNiwyylpcpniLH7MnheDamfY9KZk1qdGY501HlHQcSUpmAlYMWb6jvANzZhqtT1Mw9baJl+HVjjTnajQFZmXOGg1J5j1+NMTy8aUenFQY8E+V6ts95oHG3y9XsDOcJbGHd7ZUmRydR0aSQtbH/2q56Khp619zsytsEkDE/bVjWvggUQUGfSY24g5vDRYlHN2kdYy6/cctppd0RtKGY2UzNYuM/hqEKS6+ty2aOYVxH+Z+JUS1JMLZh9BlMrOx/topFfO0PP3phmnI8NYERKxaTn0qzE9FkTv/7UyjBbyEAr7My3ach6VZJ4YV3pot+PDzroFbrjjoAj/Nq4pEqEB4EXW6+r14zJ8tLPr/iis9VOpLQyrvyx2sR/odC6weqQhaC0Fcqy8Czhj
+    properties :
+     width : 260
+     height : 44
+    controls :
+     -
+       name : STC_DELETE_CARD
+       identifier : 0x2389ec7b0fb4ee7b
+       internal_properties : CAAAAAgAAADfFiY2MPXYsJZepzh2e7MkhCpoxfjsR1y6h+TMipWruE7dXoyLTXSS7fZGOe9EG5TvJp9C7EtPPykdrhlSPC442xJ6X+RhR2F25lTK4QhU0K3CSm8TA/JpN2gJbwi3NcfBrTAEjBnUvSoRWkI6gT5Rn1SLxzfpwT76jgZYISiF378oNL//0ehBI/a4TMdHz4A9xEoo3DFEkpsSoo1kcW1efEu796eCrjxW0c/CozdEqUliCE6OZ7+bFY+9khXteaRXDqUSadyYvg1MQOBMW0jXRL/5qZoH/SLci2bN79JUXyT+8kJCW2Gfa4uioNUEblAt2fwOgM5Jd//awzoPfTn4TEOCp2J8Re2zl9KIB4Eh0+qU1JtkUgfMmAUKWF1qlPQMyKfBKb6JU7PxXVV5Q8LewdAAFM+FBM2Mto/3/LGk0L0yuNqfGv3iMZxJu2YOfCRtEYDhGLM=
+       properties :
+        y : 4
+        width : 260
+        height : 36
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : IMG_DELETE_CARD
+       identifier : 0x2389ec7b0fb5ee7b
+       internal_properties : CAAAAAgAAABl6bCsW4yt9E7bVpPkTPYe7AKklR4aKpsl8XMZfkGztdEBeSMVHExVJPFAe7hS1FZKlYHnNZDfAyJiks2TgbO8+csvzNga0DK2FQys29EpE43KNX0CjeCojTpbUwfk5PSrZRcYBwu4vLnAtd6JuLkxrs+kQU5ufEYAp8YFfVxRXIiSb3qD4nVr1V2KyNbBBc8hrreJP397R3KI6tifg992C/ZWbJulU0LreSYuaftVSKQgBBRbEOwOnmJG44D8rjSrtPMTgZVAxpwNIwqpJXQ4tBBJ5c7mo08yXxAEQ9e4Wox/o8tg1Ndb/4gFnc3qaLHhFtHhq90Yi+JfCzvOZUHxQoAFVi6zhx5SRBkYNVmnzAzvvxR5R/a/nHClA0w72k6NMnJqkd4Z37xKooY3CNRvcZwcStNS3EIb56dys9giyGXpQFkZZy6BJaZTg0Ul9xlObcTRJ4ahdmKKqFMmBBdJ8Ee9tC1/NLBkn2MpwGt/l8zn6rknnBOOc78qAfpWhNhrAE4iyrOwy3JAIyOuyQ/UBmjK8iCKt0msJ3CO+f/ulSXiHg08FwycGisCG3YrMwWq3HZOf6PQlQ2gkUQKCWoRzXg+NJQSNxMf8xdgI33Qyi6TUeH85wA3wZ7zQCe9dZdDDo5UP7xTPEm6xiepQ+KSYUqYagIVzUuZKDwkZGZoU6taWXC5EsJQVu3GgTs2QWdqDeYNIT3B2n7O3eKp4rqekuflkMD9W60kMxEQ6Bp/3KJ6QPxSuwmIz6mp+1vVanCgKQ9YGzMUh4RiiFhindY599quyI+ANpbPtTPgY5Dk6J46Y/WX5igLpFjpETKF2w2Eob7FzCCj43hstyA=
+       properties :
+        x : 112
+        y : 4
+        width : 36
+        height : 36
+       type : 8
+       code_elements :
+        type_code : 8
+        p_codes : []
+     -
+       name : BTN_ADD_CARD
+       identifier : 0x2389ec7b0fb6ee7b
+       internal_properties : CAAAAAgAAACh8DNSyq7UjzhkoVqBiI+RYIZB47RR9D0I/Q01jwaGeSr3Ao5h00PloNC+gofzrWLONop4Ol0WYwNAb8AKUDtGuJzidK+5Nqg7obzxv4wxrpMBLBRSOr9FSk3o6JqGDYKkpP8RsoMw9jvHzxt5UkWbTUXxOd0Qm6828GXbchVYITOpI7Q8Xd0+fqUGmr4Xt0ghv5hHRxat9PpxBZIAxymE2TyszXLDDAjGU1wYuEmzQlOx8ALlAwxruJ/l2oIn91QQWiIyPUKks/jHRQumcFrKag/KoSwRNCS0o7w/byq22hTT+nTpOQ5nDgliD7oiLqAEKFUIxWHG+OlHKZ1xMJQER1q3GwXt0fsmH8V2RrYFxKz1dns52829m6LpFjsHvL5g1gWIUPHJaLxEHGYwU63g4JqDPEchivF9yn82go6b9O8sjZXl4/FcLxDWKqW84351sxIjYT3t2Q2KU/o5leMIjrOUEA7Tf8K0MfzvI7lrIhcG1+iXGkhuHTQXO/N4p5ZjRFKzjSACnilZUlp0wwestozSKft8+DD0vl4wN0pivrfDdDUy77nb5LhjhyRapg8SoFrXZQxMv6WUw8IzXgG9PEsyx2VxsQEiCF55AozEjceC7SUZYNlInzvi6gc0/pu4DWhiW6Q9UxEPJfZc5QioU9pYef+RGKsavUxRIiNLDhyuuo2yUztNOvL4/NueFZVYx4KTrju2IEO6HMJ/9yXleKsTV6CbHFbHL/+ytBl/CbmVARU1p/Y5CJSjLqN6yd8gOplluT4bK1kAUlKKgRygVtrFDwOoPSeaQoZWeWQwSaHGVDLF/d9QxSROBF9FMzT40tWZq786BcMcI8HDu91s2UZTadJPzhsLSejiC93WW5prcnbI6Q5AF2Li2st+pOlauEN3DyJ/kff1ZcuM8cCqvwBWygy5ZUdl0tAEdx0SexkVud3Byj8p+zi3znd+fybUgDzwUDtactQoaHuKt0EUdbF83gH7aojwl5gmDyk8/mya4M+Eib2n4a3DxGdkK6bSVGKfXnZjsHBlzuMajQ==
+       properties :
+        x : 112
+        y : 4
+        width : 36
+        height : 36
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           code : |1-
+            
+            Card is kbCard
+            
+            // If the input is validated
+            WIN_KBCARD_MOBILE.OpenMobileWindow(ListCard, Card, True)
+           type : 18
+         -
+           type : 161
+           enabled : false
+    type : 32
+    code_elements :
+     type_code : 70
+     p_codes :
+      -
+        code : |1+
+         procedure MyWindow( KanbanControl is Control, ListCard is Control )
+         
+         IW_KANBAN_LIST_FOOTER_MOBILE.Plane = PLANE_ADD_CARD
+      -
+        code : |1-
+         
+        type : 17
+ menu :
+  name : _Menu
+  identifier : 0x2343eb3a81c90dbb
+  internal_properties : CAAAAAgAAACi0J2JnsbqQEcCf+4DAYr6G/4jGJA3FazeywZRzfR19dVGD8r01heYHLIHd+3whYjyw+/87KMMQzI5hH0SbRIOtuSE2BGcYHUV8Y7BVdF9DzgOZ/VUEgRsGiHKDr6zxWtZNsSlytUMOU2MIXOzaU2NuGPyvucIbOTZW83OsSHtLAKBpuhDyCb2HDfrfing5CSO1eMQRZk+ouFDApFTDyUkGc+bhDAUrpOp6DuwM3jMcf0H/tvfNTxxpdz/5XOQNnpUMFtzlwRbAYwtMuWUVMXpu7jYJ1VqMiDK
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ actionbar : {}
+ code_elements :
+  type_code : 71
+  p_codes : []
+  procedures :
+   -
+     name : DragCard_Source
+     procedure_id : 1407916371569798779
+     type_code : 14
+     code : |1+
+      procedure DragCard_Source()
+      
+      IW_KANBAN_LIST_FOOTER_MOBILE.Plane = PLANE_DELETE_CARD
+      
+     type : 458752
+   -
+     name : DragCard_Target
+     procedure_id : 1407916371569864315
+     type_code : 14
+     code : |1-
+      procedure DragCard_Target()
+      
+      IW_KANBAN_LIST_FOOTER_MOBILE.Plane	= PLANE_ADD_CARD
+      STC_DELETE_CARD.Color				= DarkRed
+      IMG_DELETE_CARD.Visible				= False
+     type : 458752
+   -
+     name : DragCard_EnterHover
+     procedure_id : 1407916371569929851
+     type_code : 14
+     code : |1-
+      procedure DragCard_EnterHover()
+      
+      STC_DELETE_CARD.Color	= STC_DELETE_CARD.BackgroundColor
+      IMG_DELETE_CARD.Visible	= True
+     type : 458752
+   -
+     name : DragCard_Drop
+     procedure_id : 1407916371569995387
+     type_code : 14
+     code : |1+
+      procedure DragCard_Drop(Card ) //is kbCard)
+      
+      // execute add and cancel process if False is returned
+      if ExecuteProcess(KanbanControl, trtDeleteKanbanCard, Card) = False then
+      	// cancel
+      	return
+      end
+      
+      // Delete card
+      nIndex is int =  Card.Index
+      ListCard.SupprimeCarte(nIndex) 
+      cardCopy	is kbCard	= Card	
+      // Display a toast to allow the user to undo deletion of the card
+      toast		is Toast
+      
+      <if ExecutionTarget = Android or ExecutionTarget = iOS>		
+      	toast.Text = <§R13502efd0a226952¤en-GB¤Card deleted.§>
+      <else>	
+      	toast.Title			= Card..Title
+      	toast.Text			= <§R13501804036acbb1¤en-GB¤was deleted§>
+      	toast.Overlayable	= False
+      	toast.CloseOnClick	= True
+      <end>
+      
+      toast.DisplayDuration			= 5 s
+      toast..Button[1]..Caption		= <§R134ed795566f1863¤en-GB¤Undo§>
+      toast..Button[1]..ActionClick	= () => { ListCard.InsèreCarte( nIndex, cardCopy ) }
+      toast.Display()
+     type : 458752
+   -
+     name : DragCard_ExitHover
+     procedure_id : 1407916371570060923
+     type_code : 14
+     code : |1-
+      procedure DragCard_ExitHover()
+      
+      STC_DELETE_CARD.Color	= DarkRed
+      IMG_DELETE_CARD.Visible	= False
+     type : 458752
+  procedure_templates : []
+  property_templates : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : FenêtreInterne1
+resources :
+ string_res :
+  identifier : 0x1374a53100438cef
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=

@@ -1,0 +1,176 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_KBCARD_MOBILE
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_KBCARD_MOBILE
+ identifier : 0x2389ec780d8ee2e2
+ internal_properties : CAAAAAgAAADdzrd3W8L8Nj8YQ/fRu7SvnNIT0vdttS+VWzvCpBInshM+bhtXlGu7OXOykS05oKJy9a75g7n0psXg98E6NdRjrvS4al5snzg6p2QudHjJHgZsgJMaE+xbyGZPuYR3PipLfM12lqIbja/Yn4V389ux6o3rVffTiCoz3f3qKfSNgtMlatC6gwmSGH+AUfzMadrglpMwu9g6jEB2IGNzcxXHQpPWqHp91Q/aJDsDpH73z6UnjmzQzDhyABiek9rfUZLoridT6YuG0eZUQGPhZ5HcxgGmKc/qhVb+mm6Tu8bEv1vXbuGpVpyRj0vDTWPj9Uby+N/E5eI8ejjj68XIC8AYeP9kam0mtXbcTciVu5VpNp1ut7I41RpQSHAI4Wi9fxOJ38awJvmKkZpIpE9bW0dOPbwXckd9sGW9tBBmbr3h4QDHkJ+rBBwTsKMHqjGpaO9NBA3KlHhh5l2zm9nWBBLh0zH4aVin9Y9wzaSlydV1m8M6lq0OR1JyqzurJDwS94i52Ba7fbHuD1n/h6s/OqvvVoQh5ISQHwvY1yWm/NLqTksxun1wbMQsxqdibKzCBva8xQgRhtVKHQg2nWvhP6eqAjksVeuqKAq/PG3AZpFQf/FuoA0kyyzSkPH7icqtd43Nke/GDml0QdZIMVAFRN83qiYeMs1LNuRjV1TNWGIrckfnjoOHHq+Ezco8Vw+d2wv/WgtaNL9AslzmjyAakiJszgAv5juXKlwgiyO/xhnabPQ7hoEBjiuzNVcm+JhGELgUc9Cn
+ properties :
+  width : 318
+  height : 341
+ controls :
+  -
+    name : EDT_TITLE
+    identifier : 0x2389ec780d8fe2e2
+    internal_properties : CAAAAAgAAAAjs6nN7ipVzVzQBwEQEnK2A6xrWyivQvT65e9pqJ7B1G8dXj9/25gCl2u15qQIbmmQH649Vv74d4cnj9mI25NM7lk8bHdpHvPlVKwFZ3Yf/XZ6E0v/9LmFvrJ7f6YLttEfli/bKGnS2rUuiAUOBwzL0GAiCmFnvcUEtc60i7EyLZGhcwK9WOmrRgXr2c05N817ZFMc5UKl/I6/2J1C89GUfEU7d19y2LnUWMKfSydNq6vqq/efaZg9q1P1TcCwW/pb1OK9gogCD0dstiKsfgGw2VkXvpvfVWTgQcNkgjMrgZEi+WKfTxieOh+rRWmpgZ9If93iSoYu2TvOsKXmc/oyZKzjgMuU70SfYP+Tst0CqqWzKRRTTuALgzxqZ4I3ZvZu1sXh+Nz3w1rtBKTcfKh/yA6O/4MNTOhrPYonkwIL8OJQsePC5M+hbK/WLJOAl6dNLsvxmJZ8/GJdriqPSnkGGwhUOUiAd4NgzrRpCTP20U4xMT/poI6rAOhusfjTnobwymGcI3GxTS2nrIgWmUVBgzD0S4LwfriXQKuyDacwbs9EeuH8AMlwKWb3B6+aUmN54j3zu/HMyuHE9X4MA6sWy7EKHOBlSraXybeCDVKu5AqZWlWNFslG13MR1QwKo8JzXeGkYx/0G/Pqevl0asu299XDYrcJlzNkNBWH+Eq2KJBBLXgdEmsFgyughgS3B99jk8rTFu8KdDqYXKH1fqOnVDAdME9W7hVctIRwHNU0PEX0C1q+9NBdb3TNtQUhOzOJyJfJQ/ceBxV5bkChS9jetqSl01znfzdRfc53f9nMz6Y2eCfTHgkziCtGJlKrOg7ewyEmxbDjZF5sW4Q4NYZDW9fSkJ1CsZCuZL7srP9X35rsxZ2ZXfnoW8YRlljgb/gggkIMS1EMvlMDcqKJzK57yNN+s/YD9iU5mJQYLYysJ3j4SsmHxJHxwqHQOLLKzAaMFAPLF70cKP0yxwTLBiHXK05JURuDZTET7EEI11w9R5kHUG+o+ueTncrI2FP+xyATztN47DN70msmaHQnZbHCXo6hNll8tzQgdTCSq9i5vAhFHV5dsB89zwkeDMESgof+1WzKskQvQE3B8z7+YDQkgI0//MvrSfS5dp2xThU4dJ95mSZqQkqMK4BckeSuog37Tvvy1kG74UNlf59lROlDvzJTi8k0US3Gs8Om6xA5NOIGVI+Wqu+8lJIn2SYX+4ZR4fNfn5f/9R+OR37Ve7VltcfKuMN/uA==
+    properties :
+     x : 8
+     y : 8
+     width : 302
+     height : 63
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : BTN_VALIDATE
+    identifier : 0x2389ec780d90e2e2
+    internal_properties : CAAAAAgAAAAgxWGHPa7yf3oSTAdJ7aBqZoXIvuXWxX676gxDriSYJhObgpfQN5oapYPaB9leZannF400wn0sKChW9SuqgmESxBZa5RX+vNyFDvkAIzIE32j7c7iFnJsMCticg5oA2pFfVifrSaSJ+0cwBajLFKB7TcCky61AY+vMHW7JUQ4dlUr15U9D7k/k+ACEUhL6OBxYuSaLdJ7fasmc6gUsqdWoEgz8UYWTmK75kPy60Rc19mgkXtQIoJPP+WVxwu1qF61FIBS4TC9Yebx1Gy3j+gf1/3sMRjBgjIjif8NmwVsIdR/KMvR08BZ4h0d4GA3Xc8fGpvXORLFD1af2oG0hpBnfkXy5aF3FhRjF4+CWRoTu36PWzPAp0EU8+lZ6DbjEgfcB0EFZOy0OdcT1BDnrH8jHLnJ9kUH4QWK7cW7BnSq3YJaBHU6+h/jBQAl7kQxQvda6Kr94x71UYbO7W6KEbZC76+OqfsclOLEbzQr3EyFSiYaMKAv2L25IbNfBafvVgrNI7MxdOSGON/0MExGKWIuk+hkY6uio9/ndGEYqNE8Oof+p9sQmxwR+3YtSJ19BmtnUXH7Wf4efX6bx/9ZqqrA/bHZjSYX2U51kRj+o2a1tg5WvTw7yBDQf2pVNVw1OAsgA0AihucWCCnF7CvbmmRCOdUggmxEh4uPS+bLvo8OV1RWzfUP4ZyxagvDgwmtsuK0Z3HVTBAJq+PVgavo6yy0biQtk6CuK2+bYwxflcmuf2EGg5v6cDZA3HDdwC+K/Z4ksUAco3XN5woKXpuJ0ZMtF8sxeWe4e7wmDwu3dVMkjg1ZsKE9MGaR6t+BB1ZEVnpwJI3v5+IJxeyjX57VfFuXtSqWJjwZ2xy8mlUc3BU7d0VFzl19r1AzvPGS9PVpKIxrG3K5oIXs47fY8oDiD33RXcn/ztA1CUmYp2x7WnHPnXHO9oohnZf5hfFso6g2s5IG+H4PWoZCcY+JK
+    properties :
+     x : 200
+     y : 296
+     width : 110
+     height : 37
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         gCard.Title				= EDT_TITLE
+         gCard.Text				= EDT_DESCRIPTION
+         gCard.Contributor		= EDT_CONTRIBUTOR
+         
+         MyWindow.ReturnedValue	= True
+         Close()
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_CANCEL
+    identifier : 0x2389ec780d91e2e2
+    internal_properties : CAAAAAgAAABma2edF1i+Fi+RhwTXU0q2obCwnJs7ICjcWTQ4E1we1J0rs1SWXiSis6aK4V6TW/BFWdmic9JKg8iLRyDCrf0Mftv3Tc9m2FU7GPuU8qvr7D2ZOgeAbWKUsCZYE79C4adnw3k2Z7L/LAI/K1NcKqionH0jxIpG18S1UZDJtbljwa9VC9EDGvbRAteTO/gVCks0vMTuD9H+QYiFpGX8HmdrzhaTWaAxqENL1JSafbpk2HcbH2E0qF0Xk9atO9FByl8RNYEmLvYOAqtqnBLS4If2vmYLBCnnbnUrcziFgWcA9Ojlwsl3NkhyAitYLyWRSdZPruHkeEFSuGa0bkWLGBsE9es2dxk4PNpgPoBmegYlatSmuuwQjBLYjGu/InXusYMmnnxrVznmi9ZF/miwcYKlI/LcMIi8aLk13WRF6F/vE5OpHtDT8P0RghDFLmRWLmDAZhSVs0FuyeTHCzpUg+0Z2zrybnJjoU/WkrQiXFRBhoFgVjWfoc/xqCy/Yffs1WFk+VZNqn9/KPnJ97FLhlXdxKtXj8RCuEVMmg8BblkA5u9INItXp0393BfuXutHLCMgLuD0z2LuQj1r2bJYNCPQtHjOUXu5eBPrdN1HoRuhATbZJUe/0A8F8/rYGUd05weQWU+FXW/bpio4xp6rrFUyjzao5NEGLxwt7KDWXYME89kMdZvwm1lp3e5ItA2Ro7LTk5mcSeY0EqFeyLX5tzYsTf0MbYZhVuIlN6Hf/1k26iO3umS1ccT+9oYXrX6+J1CeNTE8OSMM9mW+0zKKOKhCfjM3dZYf7tyr/yW4AKZM6YcRdUp4B8ZoTOFzhbfIqvMp3oque89WKJSbFx2xZIAIe+ElrFi80is2XI74l2KkOmKFzWTuKeYpdhDTZ5UBaiq5TaGD/L9jvQTTHgirbuOPEVVolf9aDrWEbA==
+    properties :
+     x : 82
+     y : 296
+     width : 110
+     height : 37
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        code : |1-
+         
+         Close
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : EDT_DESCRIPTION
+    identifier : 0x2389ec780d92e2e2
+    internal_properties : CAAAAAgAAABnUoboHvlb7QVwMsprmjHfAgMRk1MyvQdppPsWW/DoyrP6a+GbqWlZhN0Qa5wr/dly/dmH5xcXh+r32GOb2weKl+lsTJr7TkdS1hEa45zN3ZANueT5Oimy+r6imarGqLQs4tmrtqG/2VV40nkiuecuj/H09bP7zANngJ2AaLaS0DiAFZr6lUC8uIsP1VjBnCr+gNgY0oSfx5wK6EP7c6LU5HwwtxAN+vITvTuIvecxiZ7oXSfH4kItiny0IxG1GQ5grd98efK7pWA4H2QRhljSVfao9saLXw7GZOJ+xhU6KFLjKOaSe6mgIbM7U9fUIXe/Cvf+Ka2up8BPkNoaETCru5xcQxktC4/iq5I+sStBbE271thq/yY8C5mbTed4EYAShBydUZ/HakYnmc73CertxQDAJnhyO5I0zaD8Xo6SWSk7TXLL33i81LsvwaZH9rj5xgRbtQ8EQiJHmCikDnRUOaSSt/1WDHChsm+98lU7iYMDoMviAc0EiLkzHmK3P8r+q+wExeXrzob6aEQaoGrDiBBNMgJ0b8HIG/ie4I2YJVNF4dLwzMduraX7pFA6fqhLRccFpbktVBiT/TvE19AHv0nuX3oZ5y8leeHXGmhjqpjiHLEci3L6mlw3SkiAg3m4F7i5r8rNnECYVk4nTetp7Fn9vXOhgG3R4Fdyy1u5HeLu60ZrO5HUxTGcJQwlEg8UZG2zlbq9iouUWkn8oZ8RbSoGpYkKOn5VBAEtG1vhbcqUmhmf+o6bpYC/X/U3TUzPrsn6aTHy58OLd+oHUP7TAH3p6XeIqJGZqeYmCZf2Ynh6eox3DXdPoaCN9snaQuTjDvvC/sUXsesSRr3xs1yP94Bh/M5hAJgf725LoVaRDBNpoZipJ9yJVmf1kISyZz36r3AGzwc9IaxB/0qqfLGYC1K9pHxb7jGiWdfdCzktzWUXk/rewmNMvsrUvpkAQFGeVaNAn2LvexS0VgkTL/584j7nQ+nMGu2vyiCG4UDShv5VLlBjZFcZHjOyvuZvQbdElzrgM+roB+pM6/yeBWOU69noeUGgW/zwS5R88NYcSWQTWjM2oVBBSn8lV9TtN0KlNe34Nx0z2urcfaWvVJvpfXbloi0JCGV7Zz4XExnqsOnKm3cBpUDaVEiEdBeNqroIZV4bmaUxX4xAwxwCwyIxCVzB6r+N1CqyLSFpFuhOLjRjsVJnFdGcHq2tKG8fjCAzruUT2Xf4oq6yO/+iOQHu/syqhcHX2RsUyl5HVa/6GuiBaBs=
+    properties :
+     x : 8
+     y : 79
+     width : 302
+     height : 130
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : EDT_CONTRIBUTOR
+    identifier : 0x2389ec780d93e2e2
+    internal_properties : CAAAAAgAAADoNp5k4sPLfGhUZRMBDvCHfUtcJaMOxMVDoNW6ZLTn+ARqm57NoG9MdTH04LONVHnj3b3C11kojNrPKZw9r6l664zFWud0T5njqfSSNTWjy2Zt+UgcBeJEGO8oX8kMWtMDdDeEi1uZe+z1+VRnb+tZOhu+Y/1ThvoLi6aJtsxXmxrJJdkbk0N9UX1wRynQ0lekObmzgJLjcotupalfq94Unq/HGqK80IIikalCiL/OF6BNq1bA1P3OdI1x3nymDwWqbsu1jJHRjsQ9cKzhR7FXv9PGYJ+Z2qFoYLLDK93nFomXdebvO8J7BuPcbdBGi84Z70/5a7DyxYD4d4dihq+6E1acOpvZaI6+uYDwWG0xk+3gLJD//ffVZa+wv6vNCyIDiyxKiVH/rFucOVBauGOjxbEyPthim9irW7NhgDLyCGPivSIfSiih47KJK8x6I3YsgYH3PaPZnrI+gFsD8tC5tbtbsopC2ay8glriIM2u/guUQRgxZLdnN7NVAH+wieGJex4L402wCg/Wzlno6FHqliBCc9P4NbhMSKpDl1udfnWB31kK1wWh6wTSYXrK/K7q/+qVAosKfFOFCE1VukCorQrx8NhtXfC9Byl7KQXaMc4ZwHpze6iv4RDcTJgL1tnhsNoa9/tiC8fXcmFdUd8cxinIzvc9RVn/9tAsn5Tho3RPoJ7HWFGrVhntocbOuR/Ki73PdrtGzn3kg/rrQa+RD/bG5jlQMtvxa/aWp9PbC8d1dYHhicFS659NJSKbXuLrGdPmrHb5urU2AnT4Na8DxsnXQheECIRXrOJbKm+fZDK7emTEOT7KcqAejuWn9VPwyF0bp/UwNTofL7jX1a9yO3b8RTj7GL2O8RJgb5U2KtiX/3LSCGazbwU7O7wngzotJAEWOb/m0pgzoWM7cWRpRFRq4KduLxyb2eLYSpCz0PLhHBDLol33aakhpxIpu2mstFxBMVfSHsMRsTK0XJhKj7eAy1k5GdtsLugR63ljcy4N07OQ9jVfPMTl+0lPSEsV33+tBS4yzd1H2ir0eabXqPX/t05LZkfaGZnh1W8DfD9tOtAz0v954LHVtS2nHvG1hwNEQN4dbkBrBF3Uu1zID4xXux58f64Li+BtZ/0DOD+8Or7WhrUhDycl5XByuDDvQlQggJOpvJDNDBBgef6xmOisz5wabssJHyZxgRie7jv40MfkdgQOmk7Oc/QudhxI3MbVRWB1fTS9P78wn2sbhZUiIiPMGwbEUB5ShEzeYw==
+    properties :
+     x : 8
+     y : 213
+     width : 302
+     height : 63
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAABgnX2b44ip/0+dFkWIcZ3UJFlESy3OUB3wO5Qm7mevlCLdFjCyI3JIggvqH19+MvzHpl9/B9J9tS7hT0oozBulWlov7UR66HEvpEvUw0z5rDRS1Z7p+wdNt679Grta9dZiBX0QSlauiZBtVH4BhImVfjGzfJgEI7yrxVvlYeLl50T0XcrIZxSl3b5vn/iegCKem1+ATnY7gt3YKrGh4GHDZFJS1W9LBtSrZXsi5NcyuGwhXbRv+FFskVwtnOB5ewrO+zjW5Xy2Z8nvDGliFs99N2Xxj/PQbd/Pt/ta38g=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1-
+      //--- Popup window ---
+      // To access the popup control or combo box that opened this window
+      // you can use: MyPopupControl
+      procedure MyWindow( ListCard is Control, gCard is kbCard, AddMode is boolean )
+      
+      MyWindow.ReturnedValue = False 
+   -
+     code : |1-
+      
+      EDT_TITLE			= gCard.Title
+      EDT_DESCRIPTION		= gCard.Text
+      EDT_CONTRIBUTOR		= gCard.Contributor
+     type : 234
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1374a5f5006c8a8f
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
